@@ -154,3 +154,5 @@ cv.create_window(900,450,width = 100, height = 100, window = Right1_Button)
 #Add the canvas into the main window
 window.mainloop()
 #print(Question_Number)
+
+
